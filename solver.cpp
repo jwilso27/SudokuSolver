@@ -2,8 +2,6 @@
 
 //This is the driver function that demonstrates the templated class Puzzle
 
-#include <iostream>
-#include <typeinfo>
 #include "Puzzle.h"
 using namespace std;
 
